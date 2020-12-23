@@ -1,4 +1,9 @@
 # rp-motafaregheh
-ip_addres folder -->    Summerize   from  frist address fo last address
-                        collapse_addresses of list of networks 
-                    
+
+## ipaddress is a Python IPv4/IPv6 manipulation library .
+
+[ipaddress ] (https://www.iditect.com/how-to/59143787.html)
+```  python
+    collapselist=collapse_addresses(iplist) 
+
+'''
