@@ -22,7 +22,7 @@ Colons can be used to align columns.
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | [I'm an inline-style link](https://www.google.com | $1600 |
-| col 2 is      | centered      |   $12 |
+| col 2 is      | [You can use numbers for reference-style link definitions][1]      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 There must be at least 3 dashes separating each header cell.
@@ -33,3 +33,4 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+[1]: http://slashdot.org
